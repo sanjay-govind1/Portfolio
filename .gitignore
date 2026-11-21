@@ -1,0 +1,17 @@
+# IntelliJ settings
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# Frontend (for later, when you add React)
+node_modules/
+dist/
+
+# Secrets – never upload these
+.env
